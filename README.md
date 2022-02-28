@@ -33,3 +33,6 @@ https://www.figma.com/file/zzVpNqTjgK9F9Eb5IdXL4j/Jashanpreet_A2?node-id=0%3A1
 **Prototype:**
 
 <img width="888" alt="Prototype" src="https://user-images.githubusercontent.com/75087492/155913921-a5321bba-e212-4591-abdb-bd4bc27f1f5c.png">
+
+**Video Link**
+https://sheridanc-my.sharepoint.com/personal/sin10296_shernet_sheridancollege_ca/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fsin10296%5Fshernet%5Fsheridancollege%5Fca%2FDocuments%2FJashanpreet%5FA2%2Emov&parent=%2Fpersonal%2Fsin10296%5Fshernet%5Fsheridancollege%5Fca%2FDocuments
