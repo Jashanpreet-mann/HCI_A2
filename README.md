@@ -5,7 +5,7 @@ This is application version of the sheridan college app where student can keep t
 
 https://www.figma.com/file/zzVpNqTjgK9F9Eb5IdXL4j/Jashanpreet_A2?node-id=0%3A1
 
-**Current Features : ** 
+**Current Features :** 
 1. login
 2. View Enrolled Courses, contents, grades, assignments
 3. Chat with Fellow students, groups
@@ -23,13 +23,13 @@ https://www.figma.com/file/zzVpNqTjgK9F9Eb5IdXL4j/Jashanpreet_A2?node-id=0%3A1
 4. Parking Pass, Shuttle Bus pass: Purchase and Payment
 5. Integrating Library and Common centres features where students can reserve their study rooms, books, book tutoring sessions, etctera.
 
-**Design **
+**Design**
 
 <img width="845" alt="Design" src="https://user-images.githubusercontent.com/75087492/155913897-cd7a096a-f7c1-4d55-af62-f78a094e54d7.png">
 
 
 
 
-**Prototype:
+**Prototype:**
 
 <img width="888" alt="Prototype" src="https://user-images.githubusercontent.com/75087492/155913921-a5321bba-e212-4591-abdb-bd4bc27f1f5c.png">
