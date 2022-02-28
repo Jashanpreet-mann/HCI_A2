@@ -1,6 +1,9 @@
 # Sheridan Courses
 This is application version of the sheridan college app where student can keep themselves organised and up to date. Here they can interact with other students, peek onto course materials, grades, and campus navigation.
 
+**Figma Link**
+https://www.figma.com/file/zzVpNqTjgK9F9Eb5IdXL4j/Jashanpreet_A2?node-id=0%3A1
+
 **Current Features :  
 1. login
 2. View Enrolled Courses, contents, grades, assignments
